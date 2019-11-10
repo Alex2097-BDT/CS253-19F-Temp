@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/week1.dir/TermFreqCounter.cpp.o  -o week1 

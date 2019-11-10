@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g   CMakeFiles/week2.dir/Five.cpp.o  -o week2 

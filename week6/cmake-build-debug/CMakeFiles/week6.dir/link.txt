@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g   CMakeFiles/week6.dir/ThirtyOne.cpp.o  -o week6 
